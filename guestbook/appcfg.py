@@ -1,0 +1,1 @@
+appcfg.py upload_data --url=http://lomaguestbook.appspot.com/_ah/remote_api --kind=<kind> --filename=<data-filename>
